@@ -1,0 +1,2 @@
+# CubismSdkForWeb-change
+对于官方的CubismSdkForWeb进行了一些修改和删除
